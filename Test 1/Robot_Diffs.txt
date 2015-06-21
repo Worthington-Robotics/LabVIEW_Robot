@@ -1,0 +1,6 @@
+Practice Robot                   Competition Robot
+--------------                   -----------------
+
+wheel encoder     = 1.0               1.31
+Auto Gyro         = +/-0.40           +/-0.33
+Auto Joy 0 Axis Y = 1.0               0.80
